@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "style": "tamagotchi-3frame",
+  "rules": [
+    "Same character, same sit pose, same paws/tail, same framing, same background in every frame.",
+    "Only face and emotion props change across A→B→C.",
+    "No camera move, no body move, no bob."
+  ],
+  "emotions": {
+    "neutral": {
+      "focus": "almost none",
+      "a": "Soft calm face, tiny smile, eyes normal open",
+      "b": "Same pose, eyes half-closed soft blink",
+      "c": "Eyes open again, calm tiny smile"
+    },
+    "happy": {
+      "focus": "smile only",
+      "a": "Small smile, bright eyes",
+      "b": "Bigger smile, cheeks raised",
+      "c": "Biggest smile, tiny eye sparkle, no big props"
+    },
+    "laughing": {
+      "focus": "mouth + eyes",
+      "a": "Eyes almost closed, open laugh mouth",
+      "b": "Wider laughing mouth",
+      "c": "Max laugh, eyes squeezed shut"
+    },
+    "funny": {
+      "focus": "joy tears",
+      "a": "Hard laugh with tiny joy tears at eye corners",
+      "b": "Bigger joy tears",
+      "c": "Oversized comedy tears spraying out"
+    },
+    "sad": {
+      "focus": "droop",
+      "a": "Soft frown, droopy eyes",
+      "b": "Lower brows, sadder mouth",
+      "c": "Small tear forming under one eye"
+    },
+    "angry": {
+      "focus": "fire in eyes",
+      "a": "Tiny fire or red glow in eyes, frown",
+      "b": "Larger fire in eyes, stronger furrowed brows",
+      "c": "Fire bigger than pupils rising from eyes, max glare"
+    },
+    "crying": {
+      "focus": "tears",
+      "a": "Watery eyes, small tears",
+      "b": "Long tear streams",
+      "c": "Huge cascading tears, wailing mouth"
+    },
+    "loving": {
+      "focus": "hearts",
+      "a": "1–2 small hearts near face",
+      "b": "Larger hearts, more of them",
+      "c": "Hearts bigger than the eyes floating around head"
+    },
+    "embarrassed": {
+      "focus": "blush + sweat",
+      "a": "Light blush on cheeks",
+      "b": "Heavy blush plus small sweat drop",
+      "c": "Max blush plus big sweat drop"
+    },
+    "surprised": {
+      "focus": "eyes + mouth",
+      "a": "Wide eyes, small o mouth",
+      "b": "Eyes wider, mouth bigger",
+      "c": "Max wide eyes and big O mouth"
+    },
+    "shocked": {
+      "focus": "shock marks",
+      "a": "Terrified wide eyes and open mouth",
+      "b": "Bigger scream mouth plus small shock lines",
+      "c": "Max scream plus bold shock marks"
+    },
+    "thinking": {
+      "focus": "thought",
+      "a": "Eyes look up and aside, mild frown",
+      "b": "Stronger side glance, thinking face",
+      "c": "Tiny thought dots or small thought bubble near head"
+    },
+    "winking": {
+      "focus": "wink only",
+      "a": "Both eyes open, slight smile",
+      "b": "One eye half-closed starting wink",
+      "c": "Full wink one eye closed, other eye open"
+    },
+    "cool": {
+      "focus": "sunglasses",
+      "a": "Sunglasses on, mild smirk",
+      "b": "Sunglasses with a soft lens gleam",
+      "c": "Stronger smirk plus brighter lens flash"
+    },
+    "relaxed": {
+      "focus": "calm",
+      "a": "Eyes gently closed, peaceful smile",
+      "b": "Softer content closed-eye smile",
+      "c": "Very calm peaceful face, still relaxed not sleeping"
+    },
+    "delicious": {
+      "focus": "drool",
+      "a": "Tiny drool, craving eyes",
+      "b": "Longer drool",
+      "c": "Big drool plus tongue tip, yummy face"
+    },
+    "kissy": {
+      "focus": "kiss + hearts",
+      "a": "Puckered lips, one small heart",
+      "b": "Stronger kiss face, two hearts",
+      "c": "Big floating hearts larger than eyes, strong kiss face"
+    },
+    "confident": {
+      "focus": "smirk",
+      "a": "Slight smirk, half-lidded eyes",
+      "b": "Stronger smirk",
+      "c": "Peak smug smirk"
+    },
+    "sleepy": {
+      "focus": "drowsy",
+      "a": "Half-lidded drowsy eyes",
+      "b": "Eyes more closed, tiny z",
+      "c": "Eyes almost shut, bigger zz"
+    },
+    "silly": {
+      "focus": "tongue",
+      "a": "Slight tongue out",
+      "b": "Tongue more out, wink starting",
+      "c": "Full silly tongue out plus wink"
+    },
+    "confused": {
+      "focus": "swirl / eyes",
+      "a": "Eyes look aside, puzzled mouth",
+      "b": "Eyes roll upward a bit",
+      "c": "Small swirl or question mark above head"
+    }
+  }
+}

@@ -55,7 +55,7 @@ public:
         // 表情容器上移适配
         lv_obj_align(emoji_box_, LV_ALIGN_CENTER, 0, -30);          // 向上偏移30
         // 消息栏适配
-        lv_obj_align(bottom_bar_, LV_ALIGN_BOTTOM_MID, 0, -20);     // 向上偏移20
+        lv_obj_align(bottom_bar_, LV_ALIGN_BOTTOM_MID, 0, -30);     // 向上偏移30
     }
 };
 

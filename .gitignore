@@ -18,3 +18,8 @@ main/mmap_generate_emoji.h
 *.bin
 mmap_generate_*.h
 .clangd
+
+# Local emotion pack / firmware helpers
+.firmware-downgrade/
+emotion asset/**/raw/
+emotion asset/**/.DS_Store

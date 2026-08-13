@@ -1,0 +1,21 @@
+{
+  "display": {
+    "width": 240,
+    "height": 296
+  },
+  "character": "LUNA",
+  "background_color_misty": "#F4E0D4",
+  "skin": {
+    "light": {
+      "text_color": "#3D2E26",
+      "background_color": "#F4E0D4",
+      "background_image": "background_light.raw"
+    },
+    "dark": {
+      "text_color": "#F4E0D4",
+      "background_color": "#302622",
+      "background_image": "background_dark.raw"
+    }
+  },
+  "note": "LUNA label is painted on the background just below the status-bar clock (~y=48)."
+}

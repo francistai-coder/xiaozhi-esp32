@@ -1,0 +1,295 @@
+{
+  "character": "misty",
+  "size": [
+    190,
+    190
+  ],
+  "emotions": [
+    "neutral",
+    "happy",
+    "laughing",
+    "funny",
+    "sad",
+    "angry",
+    "crying",
+    "loving",
+    "embarrassed",
+    "surprised",
+    "shocked",
+    "thinking",
+    "winking",
+    "cool",
+    "relaxed",
+    "delicious",
+    "kissy",
+    "confident",
+    "sleepy",
+    "silly",
+    "confused"
+  ],
+  "approved": true,
+  "source_image": "source/reference.png",
+  "files": {
+    "neutral": {
+      "frames": {
+        "a": "frames/neutral/a.png",
+        "b": "frames/neutral/b.png",
+        "c": "frames/neutral/c.png"
+      },
+      "png": "png/neutral.png",
+      "gif": "gif/neutral.gif",
+      "focus": "almost none",
+      "gif_bytes": 56982
+    },
+    "happy": {
+      "frames": {
+        "a": "frames/happy/a.png",
+        "b": "frames/happy/b.png",
+        "c": "frames/happy/c.png"
+      },
+      "png": "png/happy.png",
+      "gif": "gif/happy.gif",
+      "focus": "smile only",
+      "gif_bytes": 52916
+    },
+    "laughing": {
+      "frames": {
+        "a": "frames/laughing/a.png",
+        "b": "frames/laughing/b.png",
+        "c": "frames/laughing/c.png"
+      },
+      "png": "png/laughing.png",
+      "gif": "gif/laughing.gif",
+      "focus": "mouth + eyes",
+      "gif_bytes": 58233
+    },
+    "funny": {
+      "frames": {
+        "a": "frames/funny/a.png",
+        "b": "frames/funny/b.png",
+        "c": "frames/funny/c.png"
+      },
+      "png": "png/funny.png",
+      "gif": "gif/funny.gif",
+      "focus": "joy tears",
+      "gif_bytes": 57747
+    },
+    "sad": {
+      "frames": {
+        "a": "frames/sad/a.png",
+        "b": "frames/sad/b.png",
+        "c": "frames/sad/c.png"
+      },
+      "png": "png/sad.png",
+      "gif": "gif/sad.gif",
+      "focus": "droop",
+      "gif_bytes": 58946
+    },
+    "angry": {
+      "frames": {
+        "a": "frames/angry/a.png",
+        "b": "frames/angry/b.png",
+        "c": "frames/angry/c.png"
+      },
+      "png": "png/angry.png",
+      "gif": "gif/angry.gif",
+      "focus": "fire in eyes",
+      "gif_bytes": 54215
+    },
+    "crying": {
+      "frames": {
+        "a": "frames/crying/a.png",
+        "b": "frames/crying/b.png",
+        "c": "frames/crying/c.png"
+      },
+      "png": "png/crying.png",
+      "gif": "gif/crying.gif",
+      "focus": "tears",
+      "gif_bytes": 60166
+    },
+    "loving": {
+      "frames": {
+        "a": "frames/loving/a.png",
+        "b": "frames/loving/b.png",
+        "c": "frames/loving/c.png"
+      },
+      "png": "png/loving.png",
+      "gif": "gif/loving.gif",
+      "focus": "hearts",
+      "gif_bytes": 60191
+    },
+    "embarrassed": {
+      "frames": {
+        "a": "frames/embarrassed/a.png",
+        "b": "frames/embarrassed/b.png",
+        "c": "frames/embarrassed/c.png"
+      },
+      "png": "png/embarrassed.png",
+      "gif": "gif/embarrassed.gif",
+      "focus": "blush + sweat",
+      "gif_bytes": 58093
+    },
+    "surprised": {
+      "frames": {
+        "a": "frames/surprised/a.png",
+        "b": "frames/surprised/b.png",
+        "c": "frames/surprised/c.png"
+      },
+      "png": "png/surprised.png",
+      "gif": "gif/surprised.gif",
+      "focus": "eyes + mouth",
+      "gif_bytes": 58338
+    },
+    "shocked": {
+      "frames": {
+        "a": "frames/shocked/a.png",
+        "b": "frames/shocked/b.png",
+        "c": "frames/shocked/c.png"
+      },
+      "png": "png/shocked.png",
+      "gif": "gif/shocked.gif",
+      "focus": "shock marks",
+      "gif_bytes": 59930
+    },
+    "thinking": {
+      "frames": {
+        "a": "frames/thinking/a.png",
+        "b": "frames/thinking/b.png",
+        "c": "frames/thinking/c.png"
+      },
+      "png": "png/thinking.png",
+      "gif": "gif/thinking.gif",
+      "focus": "thought",
+      "gif_bytes": 59733
+    },
+    "winking": {
+      "frames": {
+        "a": "frames/winking/a.png",
+        "b": "frames/winking/b.png",
+        "c": "frames/winking/c.png"
+      },
+      "png": "png/winking.png",
+      "gif": "gif/winking.gif",
+      "focus": "wink only",
+      "gif_bytes": 56093
+    },
+    "cool": {
+      "frames": {
+        "a": "frames/cool/a.png",
+        "b": "frames/cool/b.png",
+        "c": "frames/cool/c.png"
+      },
+      "png": "png/cool.png",
+      "gif": "gif/cool.gif",
+      "focus": "sunglasses",
+      "gif_bytes": 53556
+    },
+    "relaxed": {
+      "frames": {
+        "a": "frames/relaxed/a.png",
+        "b": "frames/relaxed/b.png",
+        "c": "frames/relaxed/c.png"
+      },
+      "png": "png/relaxed.png",
+      "gif": "gif/relaxed.gif",
+      "focus": "calm",
+      "gif_bytes": 55673
+    },
+    "delicious": {
+      "frames": {
+        "a": "frames/delicious/a.png",
+        "b": "frames/delicious/b.png",
+        "c": "frames/delicious/c.png"
+      },
+      "png": "png/delicious.png",
+      "gif": "gif/delicious.gif",
+      "focus": "drool",
+      "gif_bytes": 57921
+    },
+    "kissy": {
+      "frames": {
+        "a": "frames/kissy/a.png",
+        "b": "frames/kissy/b.png",
+        "c": "frames/kissy/c.png"
+      },
+      "png": "png/kissy.png",
+      "gif": "gif/kissy.gif",
+      "focus": "kiss + hearts",
+      "gif_bytes": 56401
+    },
+    "confident": {
+      "frames": {
+        "a": "frames/confident/a.png",
+        "b": "frames/confident/b.png",
+        "c": "frames/confident/c.png"
+      },
+      "png": "png/confident.png",
+      "gif": "gif/confident.gif",
+      "focus": "smirk",
+      "gif_bytes": 59252
+    },
+    "sleepy": {
+      "frames": {
+        "a": "frames/sleepy/a.png",
+        "b": "frames/sleepy/b.png",
+        "c": "frames/sleepy/c.png"
+      },
+      "png": "png/sleepy.png",
+      "gif": "gif/sleepy.gif",
+      "focus": "drowsy",
+      "gif_bytes": 60491
+    },
+    "silly": {
+      "frames": {
+        "a": "frames/silly/a.png",
+        "b": "frames/silly/b.png",
+        "c": "frames/silly/c.png"
+      },
+      "png": "png/silly.png",
+      "gif": "gif/silly.gif",
+      "focus": "tongue",
+      "gif_bytes": 61429
+    },
+    "confused": {
+      "frames": {
+        "a": "frames/confused/a.png",
+        "b": "frames/confused/b.png",
+        "c": "frames/confused/c.png"
+      },
+      "png": "png/confused.png",
+      "gif": "gif/confused.gif",
+      "focus": "swirl / eyes",
+      "gif_bytes": 59825
+    }
+  },
+  "note": "Approve then: gifs --name <char> --duration 2",
+  "gif_settings": {
+    "mode": "tamagotchi-ABCBA",
+    "sequence": [
+      "a",
+      "b",
+      "c",
+      "b"
+    ],
+    "duration_s": 2.0,
+    "delay_ms_per_frame": 500,
+    "colors": 64,
+    "loop": 0,
+    "gifsicle": true
+  },
+  "style": "tamagotchi-3frame",
+  "specs": "emotion_frames.json",
+  "display_name": "LUNA",
+  "skin": {
+    "light": {
+      "text_color": "#3D2E26",
+      "background_color": "#F4E0D4",
+      "background_image": "skin/background_light.raw"
+    },
+    "dark": {
+      "text_color": "#F4E0D4",
+      "background_color": "#302622",
+      "background_image": "skin/background_dark.raw"
+    }
+  }
+}
